@@ -5,6 +5,10 @@
 
 # CRISPResso2
 
+## Fork description
+Addition of a microhomology detection feature (in development)
+
+
 CRISPResso2 is a software pipeline designed to enable rapid and intuitive interpretation of genome editing experiments. A limited web implementation is available at: https://crispresso2.pinellolab.org/.
 
 Briefly, CRISPResso2:
