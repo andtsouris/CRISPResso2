@@ -3,11 +3,10 @@
 [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/crispresso2/README.html)
 [![Documentation](https://img.shields.io/badge/docs-latest-blue)](https://docs.crispresso.com)
 
-# CRISPResso2
-
 ## Fork description
 Addition of a microhomology detection feature (in development)
 
+# CRISPResso2
 
 CRISPResso2 is a software pipeline designed to enable rapid and intuitive interpretation of genome editing experiments. A limited web implementation is available at: https://crispresso2.pinellolab.org/.
 
